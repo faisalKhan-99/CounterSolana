@@ -1,0 +1,10 @@
+/home/ubuntu/labs/solana-bootcamp-lectures/lecture_1/counter/target/bpfel-unknown-unknown/release/deps/solana_frozen_abi-2b1bc0537a743757.rmeta: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/abi_digester.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/abi_example.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/hash.rs
+
+/home/ubuntu/labs/solana-bootcamp-lectures/lecture_1/counter/target/bpfel-unknown-unknown/release/deps/libsolana_frozen_abi-2b1bc0537a743757.rlib: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/abi_digester.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/abi_example.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/hash.rs
+
+/home/ubuntu/labs/solana-bootcamp-lectures/lecture_1/counter/target/bpfel-unknown-unknown/release/deps/solana_frozen_abi-2b1bc0537a743757.d: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/abi_digester.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/abi_example.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/hash.rs
+
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/abi_digester.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/abi_example.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.1/src/hash.rs:
