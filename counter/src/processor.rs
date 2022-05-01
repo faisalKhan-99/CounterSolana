@@ -28,7 +28,7 @@ impl Processor {
                 let counter_ai = next_account_info(accounts_iter)?;
                 let mut counter = Counter::try_from_slice(&counter_ai.data.borrow())?;
                 counter.count += 1;
-                msg!("Updating count {}", counter.count);
+                msg!("Updating mileage {}", counter.count);
                 counter.serialize(&mut *counter_ai.data.borrow_mut())?;
             }
         }
