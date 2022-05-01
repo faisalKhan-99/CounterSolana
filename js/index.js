@@ -82,8 +82,8 @@ const main = async () => {
 
   data = (await connection.getAccountInfo(counterKey)).data;
   count = new BN(data, "le");
-  console.log("Counter Key:", counterKey.toBase58());
-  console.log("Count: ", count.toNumber());
+  console.log("Car Key:", counterKey.toBase58());
+  console.log("Mileage: ", count.toNumber());
 };
 
 main()
